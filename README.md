@@ -1,2 +1,2 @@
-# learn-git
-This repository is for learning git.
+# css-coding
+This repository is for learning css.
